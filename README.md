@@ -10,7 +10,7 @@ Welcome to the Backend .NET Developemnt Roadmap! This repository is a curated li
 ## Phase 1: Basics
 
 ### Database / SQL Server
-- [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&si=ar2HDGvREar0xoEy)
+- [Eng Ramy ITI](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&si=ar2HDGvREar0xoEy)
 - [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
   
 ### C#
