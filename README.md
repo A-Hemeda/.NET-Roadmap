@@ -1,7 +1,7 @@
 # Backend .NET Roadmap
 
 #### Welcome to the Backend .NET Developemnt Roadmap!
-#### This repository is a curated list of the best free Arabic resources for learning backend .NET stack.
+#### This repository is a curated list of the best free Arabic resources for learning backend .NET Stack.
 #### Follow the phases and choose the courses that suit your learning style. ( Notion or Content )
 
 #### __________________________________________________________
