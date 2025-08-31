@@ -3,7 +3,7 @@
 This repository is a curated list of the best free Arabic resources for learning backend .NET Stack.
 <br>
 Follow the phases and choose the courses that suit your learning style.
-#### click Notion picture or from the Content links below
+#### click Notion picture to see courses content or see the Content from links below
 
 ### Click the Notion Link
 
