@@ -32,12 +32,11 @@ If you need help, feel free to reach out to me anytime.
 - [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
   
 ### C# Basics
-- [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR&si=fb-w5dS3XwPl8N7E)
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
+- [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR&si=fb-w5dS3XwPl8N7E)
 
 ### Object-Oriented Programming (OOP)
 - [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhAfq0EsDHH4YemBAd6G-H75&si=Doy7YZ6XG9rfsIjA)
-- [Code With Saad](https://www.youtube.com/playlist?list=PLZyQU-WOzZF3s6vZ5ekPcJ1w-7C4Iz2S5)
 
 ## Phase 2: Advanced
 
