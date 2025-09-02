@@ -2,7 +2,7 @@
 
 ## Overview  
 This repository is a structured roadmap for anyone looking to become a **.NET Backend Developer**.  
-It contains a curated list of the best free **Arabic resources**, organized into phases to make your learning path clear and efficient.  
+It contains a curated list of the best free **Arabic Resources**, organized into phases to make your learning path clear and efficient.  
 
 ## How to Use  
 - Follow the roadmap phases step by step.  
