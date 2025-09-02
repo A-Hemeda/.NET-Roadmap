@@ -54,7 +54,6 @@ Questions, feedback, or suggestions are always welcome, and if you need help, fe
 ## Phase 3: Frameworks
 
 ### Entity Framework Core
-- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WisNpNGLPCS1donYYAEQSI)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTVSVQ5k3UUMgj3RP8Qczwve)
 - [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)
 
