@@ -78,4 +78,3 @@ Questions, feedback, or suggestions are always welcome, and if you need help, fe
 
 ### Software Containerization & Docker
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTJTBGKI0GE3eJc2Q_SC2B-)
-- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhCS2TJvGgu38P-Rf9aNXKZD)
