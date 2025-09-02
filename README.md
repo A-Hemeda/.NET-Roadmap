@@ -19,7 +19,7 @@ Contains a list of the best free **Arabic Resources**, organized into phases to 
 ### Alternatively, use the provided links to view the content without Notion.  
 
 ## Support  
-Questions, feedback, or suggestions are always welcome, and if you need help, feel free to reach out to me anytime.  
+Questions, feedback, or suggestions are always welcome, and if you need help, feel free to reach out to me.  
 
 ### Content:
 
