@@ -50,7 +50,6 @@ Questions, feedback, or suggestions are always welcome, and if you need help, fe
 
 ### LINQ
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTXdgLMPnCwqriZX1yZ_Kgib)
-- [Hassouna Academy](https://www.youtube.com/playlist?list=PLHIfW1KZRIfnW4RDln5tzw6htvNhnkr7t)
 
 ## Phase 3: Frameworks
 
