@@ -1,7 +1,7 @@
 # .NET Roadmap  
 
 ## Overview  
-This repository is a structured roadmap for anyone looking to learn **ASP.NET** and become a **Backend .NET Developer**.  
+This repository is a structured roadmap for anyone looking to learn **ASP.NET Core** and become a **Backend .NET Developer**.  
 Contains a list of the best free **Arabic Resources**, organized into phases to make your learning path clear and efficient.  
 
 ## How to Use  
