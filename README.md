@@ -21,7 +21,7 @@ Contains a list of the best free **Arabic Resources**, organized into phases to 
 ### Support  
 Questions, feedback, or suggestions are always welcome, and if you need help, feel free to reach out to me.  
 
-### Content:
+## Content:
 
 ## Phase 1: Basics
 
