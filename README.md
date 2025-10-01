@@ -28,6 +28,8 @@ Questions, feedback, or suggestions are always welcome, and if you need help, fe
 ### Database / SQL Server
 - [Eng Ramy ITI](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&si=ar2HDGvREar0xoEy)
 - [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
+- [ITI Database Summary (PDF)](https://www.linkedin.com/feed/update/urn:li:activity:7273344106662100993/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7273344106662100993%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+- [Important Resources](https://www.linkedin.com/feed/update/urn:li:activity:7270375100913229824/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7270375100913229824%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
   
 ### C# Basics
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
@@ -60,10 +62,12 @@ Questions, feedback, or suggestions are always welcome, and if you need help, fe
 ### ASP.NET Core MVC
 - [ITI Recordings - Eng/Christiene Zareef](https://drive.google.com/drive/u/0/folders/1HZwQYm-ME578H8ANkv9w4167NDCRWecF?fbclid=IwAR1lCISZUSWI-3cMJC7Y22yCw0iMgn_0Ra2VuSVnLTCaBWV-13e-CFUbKNg)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
+- [Projects](https://www.linkedin.com/feed/update/urn:li:activity:7292843144189022208/)
 
 ### ASP.NET Core API
 - [ITI Recordings - Eng Christine Zareef](https://youtube.com/playlist?list=PLesfn4TAj57VzTrrGkOKWbNOOrUCdSQGo&si=IH-GyfrRzYhF-QXY)
 - [Passionate Coders Mohamed El-Mahdy](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh)
+- [Important Resources](https://www.linkedin.com/feed/update/urn:li:activity:7304818306589298689/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7304818306589298689%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
 ## Phase 4: Extra
 
