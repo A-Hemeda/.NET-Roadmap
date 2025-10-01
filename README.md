@@ -1,4 +1,4 @@
-# .NET Developer Roadmap => (Content, Resources and Summaries)
+# .NET Roadmap => (Content, Resources and Summaries)
 
 ### Overview  
 This repository is a structured roadmap for anyone looking to learn **ASP.NET Core** and become a **.NET Developer**.  
