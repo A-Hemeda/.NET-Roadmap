@@ -47,6 +47,7 @@ Questions, feedback, or suggestions are always welcome, and if you need help, fe
 
 ## Advanced C#
 - [El-Mahdy](https://www.youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY)
+- [Eng. Hesham](https://www.youtube.com/playlist?list=PLfHpC6JZ316dwb3MN8W6XuBuyaTA8RVaW)
   
 ## Algorithms
 - [Adel Nasim from 24 -> 37](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
