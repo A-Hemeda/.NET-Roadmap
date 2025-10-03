@@ -45,8 +45,8 @@ Questions, feedback, or suggestions are always welcome, and if you need help, fe
 
 # Phase 2: Advanced
 
-## C# Collections (Generic/Non-generic)
-- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhBbnebNayUDYlQJRBKwZKlo)
+## Advanced C#
+- [El-Mahdy](https://www.youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY)
   
 ## Algorithms
 - [Adel Nasim from 24 -> 37](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
