@@ -25,7 +25,6 @@ Questions, feedback, or suggestions are always welcome, and if you need help, fe
 
 ## Database / SQL Server
 #### Content:
-- [Eng Ramy ITI](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&si=ar2HDGvREar0xoEy)
 - [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
 #### Summary:
 - [ITI Database Summary (PDF)](https://www.linkedin.com/feed/update/urn:li:activity:7273344106662100993/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7273344106662100993%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
