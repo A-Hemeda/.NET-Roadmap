@@ -1,5 +1,3 @@
-
-
 # .NET Developer Roadmap
 ### Content, Resources and Summaries
 
