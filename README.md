@@ -1,4 +1,4 @@
-# .NET Developer Roadmap
+# .NET Roadmap
 
 ## Content, Resources and Summaries
 
