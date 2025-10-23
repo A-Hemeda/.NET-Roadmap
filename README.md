@@ -1,6 +1,5 @@
 # .NET Roadmap
 
-
 ## Content, Resources and Summaries
 
 ### Overview  
