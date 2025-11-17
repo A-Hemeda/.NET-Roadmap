@@ -1,4 +1,3 @@
-
 <h1 align = "center"> .NET Developer Roadmap</h1>
 
 ## Content, Resources and Summaries
