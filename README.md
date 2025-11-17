@@ -11,7 +11,6 @@ Contains a list of the best free **Arabic Resources**, organized into phases to 
 - Access the course details through **Notion** or use the direct links listed below.  
 
 ### Click the [Notion](https://foregoing-sunshine-22c.notion.site/Dot-Net-Back-End-Developer-RoadMap-108abbeedc9580888d75e84ba465e9fd) image in this repository to explore the full roadmap.  
-
 <p align="left"> 
   <a href="https://foregoing-sunshine-22c.notion.site/Dot-Net-Back-End-Developer-RoadMap-108abbeedc9580888d75e84ba465e9fd">
     <img src="https://github.com/user-attachments/assets/294e4b6c-fea2-4b1d-b093-5428296ad1dc" height="175"/>
